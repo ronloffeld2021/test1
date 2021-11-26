@@ -1,1 +1,2 @@
 This is line 1 and I'm not happy about it
+So I've added line 2
