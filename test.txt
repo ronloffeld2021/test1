@@ -1,3 +1,2 @@
 This is line 1 and I'm not happy about it
 so I've added a second line, much better
-line 3 here we go
